@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishnukumaran1
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning c++,python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python coding
+- 🌱 I’m currently learning c++,python, Javascript 
+- 💞️ I’m looking to collaborate on top companies.
 - 📫 How to reach me @vishnukumz437@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
