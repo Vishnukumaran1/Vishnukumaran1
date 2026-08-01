@@ -11,8 +11,6 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Vishnu kumaran A — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
@@ -35,8 +33,7 @@
 
 
 [![LinkedIn](https://www.linkedin.com/in/vishnu-kumaran-a-3aa692313?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-(https://www.instagram.com/avi_vashishta29)
-(https://Vishnukumaran1.github.io)
+(https://github.com/Vishnukumaran1)
 
 <br>
 
