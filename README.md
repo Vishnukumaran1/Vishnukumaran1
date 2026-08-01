@@ -24,7 +24,7 @@
 
 <h3><code>Vishnukumaran@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./file:///C:/Users/user/Downloads/contrib-heatmap%20(1).svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
